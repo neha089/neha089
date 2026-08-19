@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha089&label=Profile%20views&color=0e75b6&style=flat" alt="nehapatel" /> </p>
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning about **System Design**
 
 - 👨‍💻 You can find my projects here  [https://neha089.github.io/portfolio/](https://neha089.github.io/portfolio/)
 
